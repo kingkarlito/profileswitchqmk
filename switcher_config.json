@@ -1,0 +1,20 @@
+{
+  "hardware": {
+    "vendor_id": 13869,
+    "product_id": 576,
+    "usage_page": 65376,
+    "usage": 97,
+    "matrix_rows": 6,
+    "matrix_cols": 16,
+    "keyboard_name": "QMK Keyboard"
+  },
+  "hotkey": "<ctrl>+<alt>+<shift>+p",
+  "profiles": [
+    "D:/Downloads/Keymap-X4 Knob Red-13-1-29.json",
+    "D:/Downloads/default.json",
+    "",
+    "",
+    ""
+  ],
+  "current_index": 0
+}
